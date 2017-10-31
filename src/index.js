@@ -2,8 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom'
 
 import SearchBar from './components/search_bar';
-
-const API_KEY = 'AIzaSyC7jclOklMXtLgjafyq_J8kpQKdKaqQ5iI';
+import { YOUTUBE_API_KEY } from './keys/index';
 
 const App = () => {
   return (
