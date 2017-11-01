@@ -1,8 +1,10 @@
-#### Testing Redux with React. Building a Tinder web app. Nothing fancy.
+#### Testing the Youtube API with React. A very minimalistic Youtube web application.
 
 ```
-> git clone https://github.com/niklas-palm/Youtube-web-app.git
-> cd YoutubeWebApp
+> git clone https://github.com/niklas-palm/youtube-web-app.git
+> cd youtube-web-app
 > npm install
 > npm start
 ```
+
+Server is running on localhost:8080
